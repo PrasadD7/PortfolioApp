@@ -1,0 +1,17 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    color: azure;
+    background-color: #0d6efd;
+}
+
+a{
+    color: white;
+}
+
+body > img{
+    max-height: fit-content;
+}
+
+section{
+    height: 100vh;
+}
